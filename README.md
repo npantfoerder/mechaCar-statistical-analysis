@@ -6,7 +6,7 @@
 
 ## Linear Regression to Predict MPG
 *Write a short summary using a screenshot of the output from the linear regression, and address the following questions:*
-<img src='https://github.com/npantfoerder/mechaCar-statistical-analysis/blob/master/Images/linear_regression.png' width=600>
+<kbd> <img src='https://github.com/npantfoerder/mechaCar-statistical-analysis/blob/master/Images/linear_regression.png' width=500> </kbd>
 - Vehichle_length and ground_clearance were the two variables that provided a non-random amount of variance to the mpg values in the dataset.
 - The slope of the linear model is not considered to be zero. This is because the p-value of the linear model was much smaller than the significance level, providing sufficient statistical evidence that the null hypothesis is not true.
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
