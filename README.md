@@ -1,11 +1,7 @@
 # Statistics and R
 
-## Overview of the Analysis
-### Purpose
-
-
 ## Linear Regression to Predict MPG
-*Write a short summary using a screenshot of the output from the linear regression, and address the following questions:* <br>
+I designed a linear model that predicts the mpg of MechaCar prototypes using vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD as indpendent variables. Below is a summary of my results and a screenshot of the output.
 <kbd> <img src='https://github.com/npantfoerder/mechaCar-statistical-analysis/blob/master/Images/linear_regression.png' width=400> </kbd>
 - Vehichle_length and ground_clearance were the two variables that provided a non-random amount of variance to the mpg values in the dataset.
 - The slope of the linear model is not considered to be zero. This is because the p-value of the linear model was much smaller than the significance level, providing sufficient statistical evidence that the null hypothesis is not true.
