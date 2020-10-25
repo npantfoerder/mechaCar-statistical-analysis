@@ -24,9 +24,5 @@
 <kbd> <img src='https://github.com/npantfoerder/mechaCar-statistical-analysis/blob/master/Images/t_test.png' width=400> </kbd>
 
 ## Study Design: MechaCar vs Competition
-*Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. Think critically about what metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintenance cost, safety rating, etc. Address the following questions:*
-- What metric or metrics are you going to test?
-- What is the null hypothesis or alternative hypothesis?
-- What statistical test would you use to test the hypothesis? And why?
-- What data is needed to run the statistical test?
+I would like to perform a statistical study to determine if we predict values for maintenance cost using a linear model and values from cost. Analyzing the relationship of cost and maintenance cost would support the decision of choosing the best ratio. This would quantify how the vehicle performs against the competition by providing potential profit margins for the company. I would test the r-squared value to determine the likelihood that future data points will fit the linear model. My null hypothesis is that the slope of the linear model is zero. My alternative hypothesis is that the slope of the linear model is not zero. I would use simple linear regression to test the hypothesis because it will provide a meaningful model to be used in finding the optimal cost for the MechaCar while minimizing maintenance cost to increase consumer interest. The data needed to perform this study would be the cost and maintenance cost of MechaCar prototypes.
 
