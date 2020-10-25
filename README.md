@@ -20,6 +20,6 @@
 <img src='https://github.com/npantfoerder/mechaCar-statistical-analysis/blob/master/Images/lot_summary.png' width=500>
 
 ## T-Tests on Suspension Coils
-*Briefly summarize your interpretation and findings for the t-test results, include screenshots of the t-test*
-<img src='https://github.com/npantfoerder/mechaCar-statistical-analysis/blob/master/Images/.png' width=500>
+*Briefly summarize your interpretation and findings for the t-test results, include screenshots of the t-test* <br>
+<kbd> <img src='https://github.com/npantfoerder/mechaCar-statistical-analysis/blob/master/Images/t_test.png' width=400> </kbd>
 
