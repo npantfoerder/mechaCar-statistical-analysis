@@ -5,7 +5,6 @@ I designed a linear model that predicts the mpg of MechaCar prototypes using veh
 <kbd> <img src='https://github.com/npantfoerder/mechaCar-statistical-analysis/blob/master/Images/linear_regression.png' width=400> </kbd>
 - Vehichle_length and ground_clearance were the two variables that provided a non-random amount of variance to the mpg values in the dataset.
 - The slope of the linear model is not considered to be zero. This is because the p-value of the linear model was much smaller than the significance level, providing sufficient statistical evidence that the null hypothesis is not true.
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 - The r-squared value is 0.715, meaning that there is a 71.5% chance that future data points will fit this model. Therefore the linear model does predict mpg of MechaCar prototypes effectively. 
 
 ## Summary Statistics on Suspension Coils
